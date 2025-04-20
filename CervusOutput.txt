@@ -1,0 +1,323 @@
+Cervus 3.0.7 - (c) Copyright Tristan Marshall 1998-2014
+Distributed by Field Genetics Ltd - www.fieldgenetics.com
+Licensed for non-commercial use only
+
+Allele frequency analysis completed 4/20/2025 4:12:18 PM
+
+
+**** Summary statistics ****
+
+
+Locus       k    N        HObs   HExp   PIC    NE-1P  NE-2P  NE-PP  NE-I   NE-SI  HW   F(Null)
+TAWH252       4       25  0.360  0.757  0.694  0.681  0.506  0.332  0.115  0.408   **   0.3483
+TAWH111       3       20  0.200  0.188  0.174  0.983  0.909  0.834  0.676  0.827   ND  -0.0450
+TAWH7         4       26  0.654  0.714  0.644  0.727  0.560  0.388  0.146  0.436   NS   0.0389
+TAWH240       2       20  0.350  0.296  0.247  0.958  0.876  0.797  0.548  0.743   ND  -0.0937
+TAWH104       5       24  0.542  0.567  0.497  0.836  0.691  0.529  0.256  0.536   NS   0.0093
+TAWH269       4       25  0.480  0.754  0.691  0.684  0.510  0.336  0.116  0.410   NS   0.2016
+TAWH191       1       26  0.000  0.000  0.000  1.000  1.000  1.000  1.000  1.000   ND       ND
+TAWH33        5       26  0.769  0.728  0.662  0.708  0.538  0.361  0.134  0.427   NS  -0.0448
+TAWH138       1       21  0.000  0.000  0.000  1.000  1.000  1.000  1.000  1.000   ND       ND
+TAWH84        4       22  0.409  0.390  0.355  0.925  0.792  0.652  0.409  0.662   NS  -0.0247
+
+Number of individuals:                                        26
+Number of loci:                                               10
+Mean number of alleles per locus:                              3.300
+Mean proportion of loci typed:                                 0.9038
+Mean expected heterozygosity:                                  0.4395
+Mean polymorphic information content (PIC):                    0.3963
+Combined non-exclusion probability (first parent):             0.17452895
+Combined non-exclusion probability (second parent):            0.03382711
+Combined non-exclusion probability (parent pair):              0.00358852
+Combined non-exclusion probability (identity):                 0.00001010
+Combined non-exclusion probability (sib identity):             0.00677387
+
+
+**** Files ****
+
+Input
+  Genotype data file:             CervusInput.csv
+
+Output
+  Summary text file:              CervusOutput.txt
+  Allele frequency file:          CervusOutput.alf
+
+
+**** Loci ****
+
+       1  TAWH252
+       2  TAWH111
+       3  TAWH7
+       4  TAWH240
+       5  TAWH104
+       6  TAWH269
+       7  TAWH191
+       8  TAWH33
+       9  TAWH138
+      10  TAWH84
+
+
+**** Locus TAWH252 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   148       10        4        3  0.2000  0.1317
+   152       11        5        3  0.2200  0.1522
+   156       16        4        6  0.3200  0.1947
+   160       13        5        4  0.2600  0.1732
+
+Number of individuals typed:                                  25
+  Heterozygotes:                                               9
+  Homozygotes:                                                16
+Number of alleles:                                             4
+Observed heterozygosity:                                       0.3600
+Expected heterozygosity:                                       0.7567
+Polymorphic information content (PIC):                         0.6938
+Average non-exclusion probability (first parent):              0.6811
+Average non-exclusion probability (second parent):             0.5060
+Average non-exclusion probability (parent pair):               0.3322
+Average non-exclusion probability (identity):                  0.1145
+Average non-exclusion probability (sib identity):              0.4078
+Hardy-Weinberg equilibrium test
+  Minimum expected frequency:                                  1.0
+  Chi-square value:                                           22.5487
+  Degrees of freedom:                                          6
+  P-value:                                                     0.00096261
+  Significance (with Bonferroni correction):                  **
+Null allele frequency estimate:                                0.3483
+
+
+**** Locus TAWH111 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   266       36        4       16  0.9000  0.9404
+   270        1        1        0  0.0250  0.0252
+   274        3        3        0  0.0750  0.0778
+
+Number of individuals typed:                                  20
+  Heterozygotes:                                               4
+  Homozygotes:                                                16
+Number of alleles:                                             3
+Observed heterozygosity:                                       0.2000
+Expected heterozygosity:                                       0.1885
+Polymorphic information content (PIC):                         0.1736
+Average non-exclusion probability (first parent):              0.9831
+Average non-exclusion probability (second parent):             0.9086
+Average non-exclusion probability (parent pair):               0.8345
+Average non-exclusion probability (identity):                  0.6764
+Average non-exclusion probability (sib identity):              0.8272
+Hardy-Weinberg equilibrium test:                        Not done
+Null allele frequency estimate:                               -0.0450
+
+
+**** Locus TAWH7 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   232       10        8        1  0.1923  0.1911
+   236        5        5        0  0.0962  0.1011
+   240       19       11        4  0.3654  0.3489
+   244       18       10        4  0.3462  0.3200
+
+Number of individuals typed:                                  26
+  Heterozygotes:                                              17
+  Homozygotes:                                                 9
+Number of alleles:                                             4
+Observed heterozygosity:                                       0.6538
+Expected heterozygosity:                                       0.7142
+Polymorphic information content (PIC):                         0.6443
+Average non-exclusion probability (first parent):              0.7266
+Average non-exclusion probability (second parent):             0.5600
+Average non-exclusion probability (parent pair):               0.3880
+Average non-exclusion probability (identity):                  0.1458
+Average non-exclusion probability (sib identity):              0.4362
+Hardy-Weinberg equilibrium test
+  Minimum expected frequency:                                  1.0
+  Chi-square value:                                            3.7469
+  Degrees of freedom:                                          3
+  P-value:                                                     0.2901
+  Significance (with Bonferroni correction):                  NS
+Null allele frequency estimate:                                0.0389
+
+
+**** Locus TAWH240 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   213       33        7       13  0.8250  0.9009
+   221        7        7        0  0.1750  0.1916
+
+Number of individuals typed:                                  20
+  Heterozygotes:                                               7
+  Homozygotes:                                                13
+Number of alleles:                                             2
+Observed heterozygosity:                                       0.3500
+Expected heterozygosity:                                       0.2962
+Polymorphic information content (PIC):                         0.2471
+Average non-exclusion probability (first parent):              0.9583
+Average non-exclusion probability (second parent):             0.8765
+Average non-exclusion probability (parent pair):               0.7974
+Average non-exclusion probability (identity):                  0.5476
+Average non-exclusion probability (sib identity):              0.7425
+Hardy-Weinberg equilibrium test:                        Not done
+Null allele frequency estimate:                               -0.0937
+
+
+**** Locus TAWH104 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   140       13       11        1  0.2708  0.2929
+   148        2        2        0  0.0417  0.0426
+   152       29       11        9  0.6042  0.5917
+   156        3        1        1  0.0625  0.0426
+   168        1        1        0  0.0208  0.0211
+
+Number of individuals typed:                                  24
+  Heterozygotes:                                              13
+  Homozygotes:                                                11
+Number of alleles:                                             5
+Observed heterozygosity:                                       0.5417
+Expected heterozygosity:                                       0.5674
+Polymorphic information content (PIC):                         0.4967
+Average non-exclusion probability (first parent):              0.8357
+Average non-exclusion probability (second parent):             0.6909
+Average non-exclusion probability (parent pair):               0.5288
+Average non-exclusion probability (identity):                  0.2564
+Average non-exclusion probability (sib identity):              0.5363
+Hardy-Weinberg equilibrium test
+  Minimum expected frequency:                                  1.0
+  Chi-square value (using Yates' correction):                  0.0117
+  Degrees of freedom:                                          1
+  P-value:                                                     0.9137
+  Significance (with Bonferroni correction):                  NS
+Null allele frequency estimate:                                0.0093
+
+
+**** Locus TAWH269 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   331       11        3        4  0.2200  0.1448
+   335       15        9        3  0.3000  0.2655
+   339       15        9        3  0.3000  0.2655
+   343        9        3        3  0.1800  0.1226
+
+Number of individuals typed:                                  25
+  Heterozygotes:                                              12
+  Homozygotes:                                                13
+Number of alleles:                                             4
+Observed heterozygosity:                                       0.4800
+Expected heterozygosity:                                       0.7543
+Polymorphic information content (PIC):                         0.6908
+Average non-exclusion probability (first parent):              0.6840
+Average non-exclusion probability (second parent):             0.5095
+Average non-exclusion probability (parent pair):               0.3359
+Average non-exclusion probability (identity):                  0.1164
+Average non-exclusion probability (sib identity):              0.4095
+Hardy-Weinberg equilibrium test
+  Minimum expected frequency:                                  1.0
+  Chi-square value:                                           11.8830
+  Degrees of freedom:                                          3
+  P-value:                                                     0.00779829
+  Significance (with Bonferroni correction):                  NS
+Null allele frequency estimate:                                0.2016
+
+
+**** Locus TAWH191 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   101       52        0       26  1.0000  Not done
+
+Number of individuals typed:                                  26
+  Heterozygotes:                                               0
+  Homozygotes:                                                26
+Number of alleles:                                             1
+Observed heterozygosity:                                       0.0000
+Expected heterozygosity:                                       0.0000
+Polymorphic information content (PIC):                         0.0000
+Average non-exclusion probability (first parent):              1.0000
+Average non-exclusion probability (second parent):             1.0000
+Average non-exclusion probability (parent pair):               1.0000
+Average non-exclusion probability (identity):                  1.0000
+Average non-exclusion probability (sib identity):              1.0000
+Hardy-Weinberg equilibrium test:                        Not done
+Null allele frequency estimate:                         Not done
+
+
+**** Locus TAWH33 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   240        5        3        1  0.0962  0.0800
+   244       10       10        0  0.1923  0.2150
+   248       18       16        1  0.3462  0.4105
+   260       18       10        4  0.3462  0.3198
+   264        1        1        0  0.0192  0.0194
+
+Number of individuals typed:                                  26
+  Heterozygotes:                                              20
+  Homozygotes:                                                 6
+Number of alleles:                                             5
+Observed heterozygosity:                                       0.7692
+Expected heterozygosity:                                       0.7278
+Polymorphic information content (PIC):                         0.6620
+Average non-exclusion probability (first parent):              0.7078
+Average non-exclusion probability (second parent):             0.5376
+Average non-exclusion probability (parent pair):               0.3613
+Average non-exclusion probability (identity):                  0.1337
+Average non-exclusion probability (sib identity):              0.4265
+Hardy-Weinberg equilibrium test
+  Minimum expected frequency:                                  1.0
+  Chi-square value:                                            5.0171
+  Degrees of freedom:                                          3
+  P-value:                                                     0.1706
+  Significance (with Bonferroni correction):                  NS
+Null allele frequency estimate:                               -0.0448
+
+
+**** Locus TAWH138 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   211       42        0       21  1.0000  Not done
+
+Number of individuals typed:                                  21
+  Heterozygotes:                                               0
+  Homozygotes:                                                21
+Number of alleles:                                             1
+Observed heterozygosity:                                       0.0000
+Expected heterozygosity:                                       0.0000
+Polymorphic information content (PIC):                         0.0000
+Average non-exclusion probability (first parent):              1.0000
+Average non-exclusion probability (second parent):             1.0000
+Average non-exclusion probability (parent pair):               1.0000
+Average non-exclusion probability (identity):                  1.0000
+Average non-exclusion probability (sib identity):              1.0000
+Hardy-Weinberg equilibrium test:                        Not done
+Null allele frequency estimate:                         Not done
+
+
+**** Locus TAWH84 ****
+
+Allele  Count    Hets     Homs     Freq    Freq with null
+   240        1        1        0  0.0227  0.0230
+   248       34        8       13  0.7727  0.7854
+   264        5        5        0  0.1136  0.1209
+   268        4        4        0  0.0909  0.0954
+
+Number of individuals typed:                                  22
+  Heterozygotes:                                               9
+  Homozygotes:                                                13
+Number of alleles:                                             4
+Observed heterozygosity:                                       0.4091
+Expected heterozygosity:                                       0.3901
+Polymorphic information content (PIC):                         0.3551
+Average non-exclusion probability (first parent):              0.9252
+Average non-exclusion probability (second parent):             0.7922
+Average non-exclusion probability (parent pair):               0.6520
+Average non-exclusion probability (identity):                  0.4091
+Average non-exclusion probability (sib identity):              0.6617
+Hardy-Weinberg equilibrium test
+  Minimum expected frequency:                                  1.0
+  Chi-square value (using Yates' correction):                  0.2332
+  Degrees of freedom:                                          1
+  P-value:                                                     0.6292
+  Significance (with Bonferroni correction):                  NS
+Null allele frequency estimate:                               -0.0247
+
+
+********************************************************************************
